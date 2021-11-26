@@ -30,14 +30,6 @@ This project is part of ITCS371 Introduction to Software Engineering Course
 
 ---
 
-## Video Presentation
-
-[VDO_URL_Jekcea.txt](/phase-2/VDO_URL_Jekcea.txt) <br/>
-OR </br>
-[Click here](https://drive.google.com/file/d/1T41PHaIjIPNmu1ut-kJ5ucVDy32feKR4/view?usp=sharing)
-
-
----
 
 ## Revision from the 1st phase
 
