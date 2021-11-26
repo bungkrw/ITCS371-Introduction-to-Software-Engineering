@@ -1,5 +1,7 @@
 # PROJECT PHASE 2
 # 2020-ITCS371-2-JEKCEA
+
+This project is part of ITCS371 Introduction to Software Engineering Course
 ## Group Members
 *   <p>Ekaphat &nbsp&nbsp&nbsp&nbsp&nbsp Seamthong &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 6188039</p>
 *   <p>Ariya &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp Sontrapornpol &nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp 6188041</p>
